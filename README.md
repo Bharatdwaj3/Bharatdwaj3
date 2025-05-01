@@ -99,7 +99,7 @@
 <h3 align="left">💻 Top Languages:</h3>
 <p align="left">
   <a href="https://github.com/Bharatdwaj3">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharatdwaj3&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </p>
 
