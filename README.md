@@ -10,8 +10,8 @@
     
 </p>
 
-<h1 align="center">Hi 👋, I'm Jay Joshi</h1>
-<h3 align="center">A passionate developer from India</h3>
+- 🌝 Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Jay Joshi 💻 from India.
+
 
 <h2>👨‍💻 About Me</h2>
 
