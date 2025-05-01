@@ -12,25 +12,24 @@
 
 - 🌝 Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Jay Joshi 💻 from India.
 
+<p align="left"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=Bharatdwaj3&theme=onedark" alt="Bharatdwaj3" />
+    </a>
+</p>
 
 <h2>👨‍💻 About Me</h2>
 
-<p>
-  Hi there! I'm <strong>Jay Joshi</strong>, a passionate  
-  and detail-driven developer from India 🇮🇳.<br>
-  I'm currently studying Software Engineering and  
-  enjoy building clean, purposeful digital solutions.<br>
-  I have a deep interest in game development  
-  and love blending logic with creativity in code.<br>
-  I'm also enthusiastic about Linux-based systems,  
-  exploring how they work under the hood.<br><br>
-  Networking technologies fascinate me as well, and  
-  I enjoy learning how systems connect and scale.<br>
-  I thrive in structured, focused environments that  
-  allow me to go deep into technical topics.<br>
-  I’m always excited to learn new tools  
-  and contribute to meaningful, impactful projects.
-</p>
+* **Programming Languages & Frameworks:**
+    * ReactJS
+* **Technologies:**
+    * Spring Boot (Java framework for rapid app development)
+    * CI/CD (GitHub Actions) (Automated builds & deployments)
+    * Python (Versatile language for various purposes)
+    * Git: Version control system
+    * Database: PostgreSQL, MySQL (Relational database), MongoDB (NoSQL database)
+
+- 🔨 Here is my resume [Link](https://shorturl.at/BaoKs) 
 
 
 <h3 align="left">Connect with me:</h3>
@@ -101,12 +100,23 @@
     </tr>
   </tbody>
 </table>
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-  <a href="https://github.com/Bharatdwaj3">
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
-  </a>
-</p>
+
+## &#x1f4c8; 📊 GitHub Stats
+
+<a href="https://github.com/Bharatdwaj3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharatdwaj3&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/Bharatdwaj3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bharatdwaj3&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bharatdwaj3's GitHub Stats" />
+</a>
+
+
+<a href="https://github.com/Bharatdwaj3">
+  <img align="center" src="https://streak-stats.demolab.com?user=Bharatdwaj3&theme=dark" alt="Bharatdwaj3's GitHub Stats" />
+</a>
+
+
 
 <h3 align="left">💻 Top Languages:</h3>
 <p align="left">
