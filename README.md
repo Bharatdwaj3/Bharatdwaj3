@@ -5,23 +5,17 @@
 
 <p>
   Hi there! I'm <strong>Jay Joshi</strong>, a passionate  
-  and detail-driven developer from India 🇮🇳.<br><br>
-
+  and detail-driven developer from India 🇮🇳.<br>
   I'm currently studying Software Engineering and  
-  enjoy building clean, purposeful digital solutions.<br><br>
-
+  enjoy building clean, purposeful digital solutions.<br>
   I have a deep interest in game development  
-  and love blending logic with creativity in code.<br><br>
-
+  and love blending logic with creativity in code.<br>
   I'm also enthusiastic about Linux-based systems,  
   exploring how they work under the hood.<br><br>
-
   Networking technologies fascinate me as well, and  
-  I enjoy learning how systems connect and scale.<br><br>
-
+  I enjoy learning how systems connect and scale.<br>
   I thrive in structured, focused environments that  
-  allow me to go deep into technical topics.<br><br>
-
+  allow me to go deep into technical topics.<br>
   I’m always excited to learn new tools  
   and contribute to meaningful, impactful projects.
 </p>
