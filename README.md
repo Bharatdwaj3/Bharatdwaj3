@@ -1,3 +1,15 @@
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=Bharatdwaj3" alt="Bharatdwaj3" /> 
+    <img src="https://img.shields.io/github/followers/Bharatdwaj3?style=social" />
+    <img src="https://img.shields.io/github/stars/Bharatdwaj3/Bharatdwaj3?style=social" />
+    <img src="https://img.shields.io/github/watchers/Bharatdwaj3/Bharatdwaj3?style=social" />
+    <img src="https://img.shields.io/github/size/Bharatdwaj3/Bharatdwaj3/README.md" />
+    <img src="https://img.shields.io/github/last-commit/Bharatdwaj3/Bharatdwaj3" />
+    <img src="https://img.shields.io/github/contributors/Bharatdwaj3/Bharatdwaj3" />   
+    <img src="https://badge.fury.io/gh/Bharatdwaj3%2FBharatdwaj3.svg" />  
+    
+</p>
+
 <h1 align="center">Hi 👋, I'm Jay Joshi</h1>
 <h3 align="center">A passionate developer from India</h3>
 
