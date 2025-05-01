@@ -21,9 +21,14 @@
 
 * **Programming Languages & Frameworks:**
     * ReactJS
+    * tailwindCSS
 * **Technologies:**
-    * Spring Boot, CI/CD (GitHub Actions), Python, Git
-    * Databases: PostgreSQL, MySQL, MongoDB
+    * Spring Boot (Java framework for rapid app development)
+    * Larawell (PHP framework for rapid app development)
+    * CI/CD (GitHub Actions) (Automated builds & deployments)
+    * Python (Versatile language for various purposes)
+    * Git: Version control system
+    * Database: PostgreSQL, MySQL (Relational database), MongoDB (NoSQL database)
 
 📄 [View My Resume](https://drive.google.com/file/d/1MaOJ3HBBX5XP0rZy4VL-z1YKRlnGn5uR/view?usp=sharing)
 
