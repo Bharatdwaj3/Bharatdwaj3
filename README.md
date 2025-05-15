@@ -44,6 +44,9 @@
   <a href="https://in.linkedin.com/in/jay345" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
+    <a href="https://www.instagram.com/badrikedarappeaser/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
 <h3 align="left">🚀 Languages and Tools:</h3>
