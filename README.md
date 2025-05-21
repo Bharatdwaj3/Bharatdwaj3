@@ -30,7 +30,7 @@
     * Git: Version control system
     * Database: PostgreSQL, MySQL (Relational database), MongoDB (NoSQL database)
 
-- 🔨 Here is my resume [Link](https://drive.google.com/file/d/1MaOJ3HBBX5XP0rZy4VL-z1YKRlnGn5uR/view?usp=sharing)
+- 🔨 Here is my resume [Link](https://drive.google.com/file/d/1AwQjc7IlYU7F9B1PWVRnR5pZ0Lr4yuzC/view?usp=drive_link)
 
 <h3 align="left">📫 Connect with me:</h3>
 
