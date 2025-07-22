@@ -24,11 +24,8 @@
     * tailwindCSS
 * **Technologies:**
     * Spring Boot (Java framework for rapid app development)
-    * Larawell (PHP framework for rapid app development)
-    * CI/CD (GitHub Actions) (Automated builds & deployments)
-    * Python (Versatile language for various purposes)
     * Git: Version control system
-    * Database: PostgreSQL, MySQL (Relational database), MongoDB (NoSQL database)
+    * Database:  MySQL (Relational database), MongoDB (NoSQL database)
 
 - 🔨 Here is my resume [Link](https://drive.google.com/file/d/1AwQjc7IlYU7F9B1PWVRnR5pZ0Lr4yuzC/view?usp=drive_link)
 
