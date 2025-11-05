@@ -27,7 +27,7 @@
     * Git: Version control system
     * Database:  MySQL (Relational database), MongoDB (NoSQL database)
 
-- 🔨 Here is my resume [Link](https://drive.google.com/file/d/1R0deCug90whbZPdiDjdQrBMf8DGVnGWm/view?usp=drive_link)
+- 🔨 Here is my resume [Resume](https://drive.google.com/file/d/1U7UzSvWh1nGLV43Q88QjRrMX3s5L4sfj/view?usp=drive_link)
 
 <h3 align="left">📫 Connect with me:</h3>
 
