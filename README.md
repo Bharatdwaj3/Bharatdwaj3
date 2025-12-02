@@ -100,7 +100,7 @@
   </tbody>
 </table>
 
-<a href="https://app.daily.dev/uttarpaksh"><img src="https://api.daily.dev/devcards/v2/SpT2auaD6gxVqBrY8AZJF.png?type=default&r=e2m" width="356" alt="Jay Joshi's Dev Card"/></a>
+<a href="https://app.daily.dev/uttarpaksh"><img src="https://api.daily.dev/devcards/v2/SpT2auaD6gxVqBrY8AZJF.png?type=wide&r=t41" width="652" alt="Jay Joshi's Dev Card"/></a>
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <a href="https://github.com/Bharatdwaj3">
