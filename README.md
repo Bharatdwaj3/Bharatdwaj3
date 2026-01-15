@@ -19,13 +19,12 @@
 
 <h2>👨‍💻 About Me</h2>
 
-* **Programming Languages & Frameworks:**
-    * ReactJS
-    * tailwindCSS
-* **Technologies:**
-    * Spring Boot (Java framework for rapid app development)
-    * Git: Version control system
-    * Database:  MySQL (Relational database), MongoDB (NoSQL database)
+Full Stack Web Developer based in India, building scalable web applications with React.js, Node.js, Express.js, MongoDB, and MySQL. I focus on writing clean, maintainable code and creating end-to-end features that solve real problems.
+
+I work with modern tools like Tailwind CSS, Bootstrap, JWT authentication I use Git and Docker to streamline development and deployment.
+
+Currently working on my skills in Docker, Kubernetes, and TypeScript to make my projects more scalable and reliable. 
+Passionate about building well-architected applications that perform smoothly and deliver a great user experience, while constantly learning new technologies to stay ahead in the fast-moving web development world.
 
 - 🔨 Here is my [Resume](https://drive.google.com/file/d/1ZjAojV-TEr9NhFCznpL4tIGsrMr92JDj/view?usp=sharing)
 
