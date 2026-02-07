@@ -27,7 +27,7 @@ Currently working on my skills in Docker, Kubernetes, and TypeScript to make my 
 Passionate about building well-architected applications that perform smoothly and deliver a great user experience, while constantly learning new technologies to stay ahead in the fast-moving web development world.
 
 - 🔨 Here is my [Resume](https://drive.google.com/file/d/1ZjAojV-TEr9NhFCznpL4tIGsrMr92JDj/view?usp=sharing)
-- [![roadmap.sh](https://roadmap.sh/card/tall/65fd07096deb533d6e0bd785?variant=dark)](https://roadmap.sh)
+- [![roadmap.sh](https://roadmap.sh/card/wide/65fd07096deb533d6e0bd785?variant=dark&roadmaps=react%2Cdocker%2Cfull-stack%2Cgit-github)](https://roadmap.sh)
 
 <h3 align="left">📫 Connect with me:</h3>
 
