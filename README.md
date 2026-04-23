@@ -26,7 +26,7 @@ I work with modern tools like Tailwind CSS, Bootstrap, JWT authentication I use 
 Currently working on my skills in Docker, Kubernetes, and TypeScript to make my projects more scalable and reliable. 
 Passionate about building well-architected applications that perform smoothly and deliver a great user experience, while constantly learning new technologies to stay ahead in the fast-moving web development world.
 
-- 🔨 Here is my [Resume](https://drive.google.com/file/d/1C2lgtiyf-VS_QQUpDdfo2vKL6yNBwei6/view?usp=sharing)
+- 🔨 Here is my [Resume](https://drive.google.com/file/d/1MJOzd-wKICDaXWplK_vXRcMut2JDnRVc/view?usp=sharing)
 - [![roadmap.sh](https://roadmap.sh/card/wide/65fd07096deb533d6e0bd785?variant=dark&roadmaps=react%2Cdocker%2Cfull-stack%2Cgit-github)](https://roadmap.sh)
 
 <h3 align="left">📫 Connect with me:</h3>
