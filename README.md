@@ -4,24 +4,52 @@ Junior full-stack developer moving into DevOps. I build web apps with React and 
 
 **Open to:** junior full-stack, backend and DevOps roles in Noida and Chandigarh.
 
-## ��️ Projects (my own work)
-- **[Nerthus](https://github.com/Bharatdwaj3/Nerthus)**: farm-to-table marketplace with Buyer, Farmer and Grocer roles. Next.js 15, TypeScript, MongoDB, Redux, Razorpay, Docker.
-- **[HonKhana](https://github.com/Bharatdwaj3/HonKhana)**: PERN books library with a rich-text editor, Firebase auth and a 5-service Docker setup behind Nginx. React 19, TypeScript, PostgreSQL, Prisma.
-- **[zenBotanica](https://github.com/Bharatdwaj3/zenBotanica)**: Kubernetes-deployed, microservices version of the library platform with a botanical theme. Helm, ArgoCD, GitHub Actions.
-- **[augen](https://github.com/Bharatdwaj3/augen)**: media platform with Writer and Reader roles. React, Redux, Express, MongoDB, Cloudinary, Docker.
-- **[refine-devops](https://github.com/Bharatdwaj3/refine-devops)**: gaming e-commerce app retrofitted with Kubernetes.
+## 📖 About Me
+
+| Field | Details |
+| --- | --- |
+| **Role** | Junior full-stack developer moving into DevOps |
+| **Open to** | Junior full-stack, backend and DevOps roles |
+| **Where** | India. Can attend in person in Noida and Chandigarh |
+| **Resume** | [View PDF](https://drive.google.com/file/d/1MJOzd-wKICDaXWplK_vXRcMut2JDnRVc/view?usp=sharing) |
+
+## 🚀 Projects (my own work)
+
+| # | Project | Stack | Link |
+| --- | --- | --- | --- |
+| 1 | **Nerthus**: farm-to-table marketplace with Buyer, Farmer and Grocer roles | Next.js 15, TypeScript, MongoDB, Redux, Razorpay, Docker | [View](https://github.com/Bharatdwaj3/Nerthus) |
+| 2 | **HonKhana**: PERN books library with a rich-text editor and Firebase auth | React 19, TypeScript, PostgreSQL, Prisma, Docker, Nginx | [View](https://github.com/Bharatdwaj3/HonKhana) |
+| 3 | **zenBotanica**: microservices version of the library platform on Kubernetes | Helm, ArgoCD, GitHub Actions, Kubernetes | [View](https://github.com/Bharatdwaj3/zenBotanica) |
+| 4 | **augen**: media platform with Writer and Reader roles | React, Redux, Express, MongoDB, Cloudinary, Docker | [View](https://github.com/Bharatdwaj3/augen) |
+| 5 | **refine-devops**: gaming e-commerce app retrofitted with Kubernetes | Kubernetes | [View](https://github.com/Bharatdwaj3/refine-devops) |
 
 ## 🧰 Skills
-- **Languages:** JavaScript, TypeScript, Java, Python, C, C++, SQL
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express, Prisma
-- **Databases:** MongoDB, PostgreSQL, MySQL
-- **DevOps:** Docker, Kubernetes, Helm, GitHub Actions, ArgoCD, Linux, Git
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**DevOps and tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 📬 Contact
-- Email: Bharatdwaj_Jaydutt@outlook.com
-- LinkedIn: [linkedin.com/in/jay345](https://www.linkedin.com/in/jay345/)
-- Resume: [PDF](https://drive.google.com/file/d/1MJOzd-wKICDaXWplK_vXRcMut2JDnRVc/view?usp=sharing)
+
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:Bharatdwaj_Jaydutt@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay345/)
+[![Resume](https://img.shields.io/badge/Resume-PDF-D14836?style=for-the-badge)](https://drive.google.com/file/d/1MJOzd-wKICDaXWplK_vXRcMut2JDnRVc/view?usp=sharing)
 
 ## 📚 Learning (forked courses and books)
 Forks I use while studying. These are not my own projects.
