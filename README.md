@@ -114,3 +114,32 @@ Passionate about building well-architected applications that perform smoothly an
 <a href="https://github.com/Bharatdwaj3">
   <img align="center" src="https://streak-stats.demolab.com?user=Bharatdwaj3&theme=dark" alt="Bharatdwaj3's GitHub Streak" />
 </a>
+
+
+## 📚 Learning (forked courses and books)
+Forks I use while studying. These are not my own projects.
+- [devops-directive-github-actions-course](https://github.com/Bharatdwaj3/devops-directive-github-actions-course)
+- [devops-directive-kubernetes-course](https://github.com/Bharatdwaj3/devops-directive-kubernetes-course)
+- [cks-course-environment](https://github.com/Bharatdwaj3/cks-course-environment)
+- [Free-Docker-K8s-Books](https://github.com/Bharatdwaj3/Free-Docker-K8s-Books)
+- [helm-webapp](https://github.com/Bharatdwaj3/helm-webapp)
+
+## 🔖 Reference (forked projects)
+Other people's projects I keep for reference. These are not my own work.
+- [awesome-docker](https://github.com/Bharatdwaj3/awesome-docker)
+- [design-resources-for-developers](https://github.com/Bharatdwaj3/design-resources-for-developers)
+- [ReactJS-Spring-Boot-Full-Stack-App](https://github.com/Bharatdwaj3/ReactJS-Spring-Boot-Full-Stack-App)
+- [Inventory-Management-System-MERN-CRUD-App](https://github.com/Bharatdwaj3/Inventory-Management-System-MERN-CRUD-App)
+- [laravel12-CRUD-application](https://github.com/Bharatdwaj3/laravel12-CRUD-application)
+- [spring-boot-tailwind](https://github.com/Bharatdwaj3/spring-boot-tailwind)
+- [TodoList_App_Kt](https://github.com/Bharatdwaj3/TodoList_App_Kt)
+- [anime-Angular_REST-api](https://github.com/Bharatdwaj3/anime-Angular_REST-api)
+- [car_m_app](https://github.com/Bharatdwaj3/car_m_app)
+- [realtime-weather](https://github.com/Bharatdwaj3/realtime-weather)
+- [PixelShare-web-app](https://github.com/Bharatdwaj3/PixelShare-web-app)
+- [Notify](https://github.com/Bharatdwaj3/Notify)
+- [flow-hilla-hybrid-example_jay](https://github.com/Bharatdwaj3/flow-hilla-hybrid-example_jay)
+- [livewire_jay](https://github.com/Bharatdwaj3/livewire_jay)
+- [JoshuaThadi](https://github.com/Bharatdwaj3/JoshuaThadi)
+- [Rapter1990](https://github.com/Bharatdwaj3/Rapter1990)
+- [darkr_v](https://github.com/Bharatdwaj3/darkr_v)
